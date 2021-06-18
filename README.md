@@ -1,8 +1,8 @@
 - 👋 Hi, I’m theDOorKeeper
-- 👀 I’m interested in Being a fully fleged front End Web Dev;
-- 🌱 I’m currently learning advance Javascript and React;
+- 👀 I’m interested in Being a fully fleged full Stack End Web Dev;
+- 🌱 I’m currently learning React and firebase;
 - 💞️ I’m looking to collaborate on any open source project i can help with my current experience
-- 📫 reach me through twitter : @HaremKi41603061 ; discord : HaremKing#4919
+- 📫 reach me through twitter : @theDoorKeepr ; discord : theDoorKeeper#4919
 
 <!---
 Harremking0/Harremking0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
